@@ -1,4 +1,4 @@
-# WAX Account Tag Finder
+# WAX Account Tag Finder - ALTA (AlienTag)
 
 This Python script finds the Alienworlds tag of a given WAX account by querying multiple API endpoints.
 
